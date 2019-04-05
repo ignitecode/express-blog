@@ -7,7 +7,7 @@ const port = process.env.PORT || 3000;
 
 // Use middleware logging & POST body parsing
 app.use(morgan('combined'));
-app.use(bodyParser({ extended: true }));
+app.use(bodyParser.urlencoded({ extended: true }));
 
 // Import our controller code
 const blogController = require('./controllers/blogController');
