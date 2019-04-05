@@ -1,0 +1,27 @@
+{
+  "name": "express-blog",
+  "version": "1.0.0",
+  "description": "### Objectives *After this lesson, students will be able to:*",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignitecode/express-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignitecode/express-blog/issues"
+  },
+  "homepage": "https://github.com/ignitecode/express-blog#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}

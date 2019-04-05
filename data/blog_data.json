@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "My Pet Fish",
+    "description": "A short story about a cute fish",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rhoncus dapibus dui, a rutrum nunc mollis a. Curabitur egestas ipsum tellus, vestibulum rhoncus tellus aliquet eget. Curabitur vulputate pharetra ante. Donec turpis arcu, sagittis a tincidunt quis, facilisis quis lacus. Proin vel pharetra tortor. Nam malesuada elit nunc, ut mattis augue pulvinar ac. Sed nec metus et diam tempus tincidunt sed in libero. Phasellus purus nulla, porta ac euismod quis, elementum at eros."
+  },
+  {
+    "id": 1,
+    "title": "How to use Express",
+    "description": "A short article about the express framework",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rhoncus dapibus dui, a rutrum nunc mollis a. Curabitur egestas ipsum tellus, vestibulum rhoncus tellus aliquet eget. Curabitur vulputate pharetra ante. Donec turpis arcu, sagittis a tincidunt quis, facilisis quis lacus. Proin vel pharetra tortor. Nam malesuada elit nunc, ut mattis augue pulvinar ac. Sed nec metus et diam tempus tincidunt sed in libero. Phasellus purus nulla, porta ac euismod quis, elementum at eros."
+  },
+  {
+    "id": 2,
+    "title": "RESTFUL Web Routing",
+    "description": "Learn about how to use REST in your API design!",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rhoncus dapibus dui, a rutrum nunc mollis a. Curabitur egestas ipsum tellus, vestibulum rhoncus tellus aliquet eget. Curabitur vulputate pharetra ante. Donec turpis arcu, sagittis a tincidunt quis, facilisis quis lacus. Proin vel pharetra tortor. Nam malesuada elit nunc, ut mattis augue pulvinar ac. Sed nec metus et diam tempus tincidunt sed in libero. Phasellus purus nulla, porta ac euismod quis, elementum at eros."
+  }
+]
